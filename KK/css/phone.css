@@ -1,0 +1,50 @@
+/* home */
+
+#home{
+	height: 820px;
+}
+
+.heading{
+	font-size: 1.7rem;
+}
+/*about*/
+#about{
+	height: 820px;
+}
+.apic img{
+	width: 300px;
+	height: 175px;
+}
+
+.intro p{
+	font-size: 10.5rem;
+}
+
+/* service */
+#service{
+	padding: 10px;
+}
+
+.box{
+	width: 125px;
+	height: 225px;
+}
+
+/*gallery*/
+.gallery img{
+	width: 250px;
+	height: 150px;
+	margin: 10px;
+}
+
+/*contact*/
+.input{
+	width: 80%;
+}
+#msg{
+	width: 70%;
+}
+
+#send{
+	width: 20%;
+}
